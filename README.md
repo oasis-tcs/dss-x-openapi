@@ -13,7 +13,7 @@
 
 <p>Detail: <a href="https://www.oasis-open.org/committees/download.php/62716/chat_trace_dss_20180319_meeting-206_kavi.txt">[DSS-X TC Meeting #206 held on 2018-March-19]</a> "We will request a TC GitHub repo with initial (chair) with initial maintainers Andreas Kuehne and Stefan Hagen for serving the derived artefacts that <i>e.g.</i>, enable the OpenAPI /Swagger seeding. The rationale is boosting the uptake of version 2.0 of DSS."</p>
 
-<p>Initial Maintainers include OASIS DSS-X TC Chair <a href="mailto:stefan@hagen.link">Stefan Hagen</a> (GitHub <a href="https://github.com/sdrees">sdrees</a> [<a href="https://stefan.is-a.name/">[who</a>] and <a href="mailto:kuehne@trustable.de">Andreas Kuehne</a> (GitHub: <a href="https://github.com/kuehne-trustable-de">kuehne-trustable-de</a>, <a href="https://trustable.eu/about.html">Trustable]</a>.</p>
+<p>Initial Maintainers include OASIS DSS-X TC Chair <a href="mailto:stefan@hagen.link">Stefan Hagen</a> (GitHub <a href="https://github.com/sdrees">sdrees</a> <a href="https://stefan.is-a.name/">[who]</a>) and <a href="mailto:kuehne@trustable.de">Andreas Kuehne</a> (GitHub: <a href="https://github.com/kuehne-trustable-de">kuehne-trustable-de</a>, <a href="https://trustable.eu/about.html">Trustable)</a>.</p>
 
 </div>
 
